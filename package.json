@@ -4,7 +4,8 @@
   "description": "",
   "main": "src/index.ts",
   "scripts": {
-    "test": "jest -i"
+    "test": "jest -i",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
